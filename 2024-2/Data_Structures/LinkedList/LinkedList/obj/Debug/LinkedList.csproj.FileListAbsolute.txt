@@ -4,3 +4,9 @@ D:\programming\IADE\2024-2\Data_Structures\LinkedList\LinkedList\bin\Debug\Linke
 D:\programming\IADE\2024-2\Data_Structures\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
 D:\programming\IADE\2024-2\Data_Structures\LinkedList\LinkedList\obj\Debug\LinkedList.exe
 D:\programming\IADE\2024-2\Data_Structures\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+C:\UnityProjects\IADE\2024-2\Data_Structures\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\UnityProjects\IADE\2024-2\Data_Structures\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\UnityProjects\IADE\2024-2\Data_Structures\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+C:\UnityProjects\IADE\2024-2\Data_Structures\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\UnityProjects\IADE\2024-2\Data_Structures\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\UnityProjects\IADE\2024-2\Data_Structures\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
