@@ -81,8 +81,6 @@ class HashTable
 
             if (slot != null)
             {
-                Console.WriteLine($"Slot {i}:");
-
                 foreach (var pair in slot)
                 {
                     Console.WriteLine($"  Key: {pair.Key}, Value: {pair.Value}");
@@ -91,3 +89,23 @@ class HashTable
         }
     }
 }
+
+public class Hash{
+        var hashTable = new HashTable(5);
+
+        hashTable.Add("ID1", "João");
+        hashTable.Add("ID2", "Maria");
+        hashTable.Add("ID3", "Manuel");
+        hashTable.Add("ID4", "Vasco");
+        hashTable.Add("ID4", "Miguel");
+        hashTable.Add("ID5", "Fernando");
+        hashTable.Add("ID5", "António");
+
+        Console.WriteLine("Value for key 'ID3': " + hashTable.Get("ID3"));
+
+        hashTable.Remove("ID2");
+        Console.WriteLine("After removing key 'ID2':");
+
+        hashTable.PrintAll(); 
+    }
+
